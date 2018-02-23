@@ -12,21 +12,22 @@ menu:
     text: Home
     url: /
   archives:
+    text: Archives
     url: /archives
   tags:
+    text: Tags
     url: /tags
-  th-list:
-    text: Categories
-    url: /categories
+  link:
+    text: About
+    url: /about
   github:
-    url: https://github.com/zilch40
+    text: GitHub
+    url: https://github.com/wlh320
     target: _blank
   weibo:
+    text: Weibo
     url: http://www.weibo.com/VV0H
     target: _blank
-  link:
-    text: 测试
-    url: /custom
 
 # 你的头像url
 avatar: /img/avatar.png
