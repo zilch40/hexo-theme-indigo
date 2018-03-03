@@ -86,7 +86,7 @@ postMessage: <a href="<%- url_for(page.path).replace(/index\.html$/, '') %>" tar
 cnzz: false
 
 # 百度统计，如要开启，改为你的 key
-baidu_tongji: false
+baidu_tongji: 2a9e5530f7d7955a3d88391ee22fe0c6
 
 # 腾讯分析，如要开启，输入站点id
 tajs: false
