@@ -19,7 +19,8 @@ menu:
     url: /tags
   link:
     text: About
-    url: /about
+    url: https://zilch40.wang
+    target: _blank
   github:
     text: GitHub
     url: https://github.com/wlh320
